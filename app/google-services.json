@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "506693318248",
+    "firebase_url": "https://andy-c769f.firebaseio.com",
+    "project_id": "andy-c769f",
+    "storage_bucket": "andy-c769f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506693318248:android:4d25ee4982519d13",
+        "android_client_info": {
+          "package_name": "com.example.verdotte.andy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506693318248-6r01pgvvtku3mrh9vm5t0m1l32voku2t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.verdotte.andy",
+            "certificate_hash": "0336cc4a1d33a2e01b019ea2c4196b5891db2198"
+          }
+        },
+        {
+          "client_id": "506693318248-enpgqte40g5l342jrikfh3ci397s6kee.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "506693318248-enpgqte40g5l342jrikfh3ci397s6kee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJXnr7Yiz6jUn_3NG3bUfj-_eVkY6RHb8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506693318248-enpgqte40g5l342jrikfh3ci397s6kee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
